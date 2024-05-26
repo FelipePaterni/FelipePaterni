@@ -1,4 +1,7 @@
-## Oi, eu sou o Felipe Paterni, estudo Desenvolvimento de Sistemas
+# Olá, me chamo Felipe Paterni ! 
+## Bem vindo ao meu perfil GitHub 👋
+### Eu estudo Desenvolvimento de Sistemas,
+<img loading="lazy" />
 
 <div>
   <a href="#">
@@ -9,6 +12,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
   </div>
 
 ##
