@@ -19,5 +19,5 @@
 ##
 <div><a href="https://linkedin.com/in/felipe soares paterni chaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe soares paterni chaves" height="30" width="40" /></a></div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/FelipePaterni/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelipePaterni/FelipePaterni/blob/output/github-contribution-grid-snake.svg)
 
