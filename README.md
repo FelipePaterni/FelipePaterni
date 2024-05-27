@@ -54,3 +54,4 @@ I work at [Axelerant](https://axelerant.com) and contribute to open source softw
 </p>
 
  
+![Bottom](./img/bottom.svg)
