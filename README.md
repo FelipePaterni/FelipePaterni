@@ -2,10 +2,9 @@
 
 <hr>
 
+Olá, meu nome é Felipe, sou brasileiro e estudo sobre desenvolvimento de sistemas, tenho bastante conhecimento em linguagens de programação we e programação de jogos na Unity. E estou estudando mais sobre react e apps mobile.
 
-I'm Hussain Abbas and I go by `hussainweb` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
-
-I work at [Axelerant](https://axelerant.com) and contribute to open source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
+<!-- I work at [Axelerant](https://axelerant.com) and contribute to open source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.-->
 
 ---
 
