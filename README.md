@@ -41,7 +41,7 @@
 ### Programming and Markup Languages 
  
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=owner%3AFelipePaterni+language%3Ahtml&type=repositories)
-[![CSS3](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=owner%3AFelipePaterni+language%3ACSS+&type=code)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/search?q=owner%3AFelipePaterni+language%3ACSS+&type=code)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/search?q=owner%3AFelipePaterni+language%3AJavaScript+&type=code)
 [![Typescipt](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/search?q=owner%3AFelipePaterni+language%3ATypeScript+&type=repositories)
 [![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/search?q=owner%3AFelipePaterni+language%3AC%23+&type=repositories)
@@ -51,6 +51,7 @@
 
 <br>
 <br>
+
 ### Frameworks and Libraries
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
@@ -60,6 +61,7 @@
 
 <br>
 <br>
+
 ### Databases and Cloud Hosting
 
 [![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)]()
